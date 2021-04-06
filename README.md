@@ -12,3 +12,22 @@
 - Rvr & Jc College Of Engineering
 - Acharya Nagarjuna University,Guntur
 - Andhra Pradesh,India
+
+**INTERMEDIATE**
+- Clg Name:Sri Chaitanya
+- medium:English
+- Board Of Intermediate Education
+
+**SSC**
+- Vignananda Bala Kuteer
+- board of SSC
+- Andhra Pradesh
+
+**Skills**
+- CProgramming
+- Python
+- Data Structures
+
+**Goals**
+- Software Developer In `Python`
+
